@@ -25,7 +25,7 @@
         96
       ],
       "tensorPath": "https://github.com/coldlaugh/metasim-datasets/raw/main/dna_walker/tensor.bytes",
-      "metadataPath": "https://github.com/coldlaugh/metasim-datasets/raw/main/dna_walker/metadata.tsv",
+      "metadataPath": "https://github.com/coldlaugh/metasim-datasets/raw/main/dna_walker/metadata.tsv"
     },
     {
       "tensorName": "Riboswitch",
