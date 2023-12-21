@@ -3,7 +3,7 @@
     {
       "tensorName": "DNA Swinging Arm",
       "tensorShape": [
-        1098,
+        1525,
         96
       ],
       "tensorPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/dna_swinging_arm/tensor.bytes",
@@ -30,7 +30,7 @@
     {
       "tensorName": "Riboswitch",
       "tensorShape": [
-        1503,
+        2475,
         96
       ],
       "tensorPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/riboswitch/tensor.bytes",
@@ -57,7 +57,7 @@
     {
     "tensorName": "Transcriptional Complex",
       "tensorShape": [
-        1342,
+        2267,
         96
       ],
       "tensorPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/transcriptional_complex/tensor.bytes",
