@@ -3,78 +3,75 @@
     {
       "tensorName": "DNA Swinging Arm",
       "tensorShape": [
-        -1,
+        1098,
         96
       ],
-      "tensorPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/dna_swinging_arm/tensor.bytes",
-      "metadataPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/dna_swinging_arm/metadata.tsv"
+      "tensorPath": zhttps://github.com/coldlaugh/metasim-datasets/raw/main/dna_swinging_arm/tensor.bytes",
+      "metadataPath": "https://github.com/coldlaugh/metasim-datasets/raw/main/dna_swinging_arm/metadata.tsv"
     },
     {
       "tensorName": "PreQ 1",
       "tensorShape": [
-        -1,
+        1526,
         96
       ],
-      "tensorPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/preQ_1/tensor.bytes",
-      "metadataPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/preQ_1/metadata.tsv"
+      "tensorPath": "https://github.com/coldlaugh/metasim-datasets/raw/main/preQ_1/tensor.bytes",
+      "metadataPath": "https://github.com/coldlaugh/metasim-datasets/raw/main/preQ_1/metadata.tsv"
     },
     {
       "tensorName": "DNA Walker",
       "tensorShape": [
-        -1,
+        945,
         96
       ],
-      "tensorPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/dna_walker/tensor.bytes",
-      "metadataPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/dna_walker/metadata.tsv",
-      "dataCitation": "Li, Jieming, et al. Exploring the speed limit of toehold exchange with a cartwheeling DNA acrobat. Nature nanotechnology 13.8 (2018): 723-729."
+      "tensorPath": "https://github.com/coldlaugh/metasim-datasets/raw/main/dna_walker/tensor.bytes",
+      "metadataPath": "https://github.com/coldlaugh/metasim-datasets/raw/main/dna_walker/metadata.tsv"
     },
     {
       "tensorName": "Riboswitch",
       "tensorShape": [
-        -1,
+        1503,
         96
       ],
-      "tensorPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/riboswitch/tensor.bytes",
-      "metadataPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/riboswitch/metadata.tsv"
+      "tensorPath": "https://github.com/coldlaugh/metasim-datasets/raw/main/riboswitch/tensor.bytes",
+      "metadataPath": "https://github.com/coldlaugh/metasim-datasets/raw/main/riboswitch/metadata.tsv"
     },
     {
       "tensorName": "Kinetic Fingerprinting",
       "tensorShape": [
-        -1,
+        2573,
         96
       ],
-      "tensorPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/simreps/tensor.bytes",
-      "metadataPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/simreps/metadata.tsv",
-      "dataCitation": "Johnson-Buck, Alexander, et al. Kinetic fingerprinting to identify and count single nucleic acids. Nature biotechnology 33.7 (2015): 730-732."
+      "tensorPath": "https://github.com/coldlaugh/metasim-datasets/raw/main/simreps/tensor.bytes",
+      "metadataPath": "https://github.com/coldlaugh/metasim-datasets/raw/main/simreps/metadata.tsv"
     },
     {
       "tensorName": "Photobleach steps counting",
       "tensorShape": [
-        -1,
+        409,
         96
       ],
-      "tensorPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/photobleach_steps_counting/tensor.bytes",
-      "metadataPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/photobleach_steps_counting/metadata.tsv"
+      "tensorPath": "https://github.com/coldlaugh/metasim-datasets/raw/main/photobleach_steps_counting/tensor.bytes",
+      "metadataPath": "https://github.com/coldlaugh/metasim-datasets/raw/main/photobleach_steps_counting/metadata.tsv"
     },
     {
     "tensorName": "Transcriptional Complex",
       "tensorShape": [
-        -1,
+        1342,
         96
       ],
-      "tensorPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/transcriptional_complex/tensor.bytes",
-      "metadataPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/transcriptional_complex/metadata.tsv"
+      "tensorPath": "https://github.com/coldlaugh/metasim-datasets/raw/main/transcriptional_complex/tensor.bytes",
+      "metadataPath": "https://github.com/coldlaugh/metasim-datasets/raw/main/transcriptional_complex/metadata.tsv"
     },
     {
       "tensorName": "Simulaiton - Noise Level",
       "tensorShape": [
-        -1,
+        1024,
         96
       ],
       "tensorPath": "https://storage.googleapis.com/fret_traces/noise_level_control_expt/tensor.bytes",
       "metadataPath": "https://storage.googleapis.com/fret_traces/noise_level_control_expt/metadata.tsv"
     }
   ],
-  "modelCheckpointPath": "Demo datasets",
-  "dataCollectionName": "MetaSiM Demo Dataset"
+  "modelCheckpointPath": "Demo datasets"
 }
