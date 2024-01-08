@@ -3,7 +3,7 @@
     {
       "tensorName": "DNA Swinging Arm",
       "tensorShape": [
-        1098,
+        -1,
         96
       ],
       "tensorPath": "https://github.com/coldlaugh/metasim-datasets/raw/main/dna_swinging_arm/tensor.bytes",
