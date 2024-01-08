@@ -3,7 +3,7 @@
     {
       "tensorName": "DNA Swinging Arm",
       "tensorShape": [
-        1525,
+        -1,
         96
       ],
       "tensorPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/dna_swinging_arm/tensor.bytes",
@@ -12,7 +12,7 @@
     {
       "tensorName": "PreQ 1",
       "tensorShape": [
-        1526,
+        -1,
         96
       ],
       "tensorPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/preQ_1/tensor.bytes",
@@ -21,16 +21,17 @@
     {
       "tensorName": "DNA Walker",
       "tensorShape": [
-        945,
+        -1,
         96
       ],
       "tensorPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/dna_walker/tensor.bytes",
-      "metadataPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/dna_walker/metadata.tsv"
+      "metadataPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/dna_walker/metadata.tsv",
+      "dataCitation": "Li, Jieming, et al. "Exploring the speed limit of toehold exchange with a cartwheeling DNA acrobat." Nature nanotechnology 13.8 (2018): 723-729."
     },
     {
       "tensorName": "Riboswitch",
       "tensorShape": [
-        2475,
+        -1,
         96
       ],
       "tensorPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/riboswitch/tensor.bytes",
@@ -39,16 +40,17 @@
     {
       "tensorName": "Kinetic Fingerprinting",
       "tensorShape": [
-        2573,
+        -1,
         96
       ],
       "tensorPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/simreps/tensor.bytes",
-      "metadataPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/simreps/metadata.tsv"
+      "metadataPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/simreps/metadata.tsv",
+      "dataCitation": "Johnson-Buck, Alexander, et al. "Kinetic fingerprinting to identify and count single nucleic acids." Nature biotechnology 33.7 (2015): 730-732."
     },
     {
       "tensorName": "Photobleach steps counting",
       "tensorShape": [
-        409,
+        -1,
         96
       ],
       "tensorPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/photobleach_steps_counting/tensor.bytes",
@@ -57,7 +59,7 @@
     {
     "tensorName": "Transcriptional Complex",
       "tensorShape": [
-        2267,
+        -1,
         96
       ],
       "tensorPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/transcriptional_complex/tensor.bytes",
@@ -66,12 +68,13 @@
     {
       "tensorName": "Simulaiton - Noise Level",
       "tensorShape": [
-        1024,
+        -1,
         96
       ],
       "tensorPath": "https://storage.googleapis.com/fret_traces/noise_level_control_expt/tensor.bytes",
       "metadataPath": "https://storage.googleapis.com/fret_traces/noise_level_control_expt/metadata.tsv"
     }
   ],
-  "modelCheckpointPath": "Demo datasets"
+  "modelCheckpointPath": "Demo datasets",
+  "dataCollectionName": "MetaSiM Demo Dataset"
 }
