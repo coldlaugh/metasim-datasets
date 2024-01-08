@@ -6,7 +6,7 @@
         1098,
         96
       ],
-      "tensorPath": zhttps://github.com/coldlaugh/metasim-datasets/raw/main/dna_swinging_arm/tensor.bytes",
+      "tensorPath": "https://github.com/coldlaugh/metasim-datasets/raw/main/dna_swinging_arm/tensor.bytes",
       "metadataPath": "https://github.com/coldlaugh/metasim-datasets/raw/main/dna_swinging_arm/metadata.tsv"
     },
     {
