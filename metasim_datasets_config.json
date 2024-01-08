@@ -26,7 +26,7 @@
       ],
       "tensorPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/dna_walker/tensor.bytes",
       "metadataPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/dna_walker/metadata.tsv",
-      "dataCitation": "Li, Jieming, et al. "Exploring the speed limit of toehold exchange with a cartwheeling DNA acrobat." Nature nanotechnology 13.8 (2018): 723-729."
+      "dataCitation": "Li, Jieming, et al. Exploring the speed limit of toehold exchange with a cartwheeling DNA acrobat. Nature nanotechnology 13.8 (2018): 723-729."
     },
     {
       "tensorName": "Riboswitch",
@@ -45,7 +45,7 @@
       ],
       "tensorPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/simreps/tensor.bytes",
       "metadataPath": "https://raw.githubusercontent.com/coldlaugh/metasim-datasets/main/simreps/metadata.tsv",
-      "dataCitation": "Johnson-Buck, Alexander, et al. "Kinetic fingerprinting to identify and count single nucleic acids." Nature biotechnology 33.7 (2015): 730-732."
+      "dataCitation": "Johnson-Buck, Alexander, et al. Kinetic fingerprinting to identify and count single nucleic acids. Nature biotechnology 33.7 (2015): 730-732."
     },
     {
       "tensorName": "Photobleach steps counting",
